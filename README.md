@@ -2,6 +2,11 @@
 
 1..6x spi jedec-memory soic-8 (e.g. 23LC1024 RAM)
 
+The old REV 3.0 is tested and works.
+
+
+This is not tested:
+
 New Revision with LED,
 more capacitors.
 
