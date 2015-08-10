@@ -21,8 +21,8 @@ Partslist:
 - 1 x LED Low current 2 mA 1.8V 0603 (optional)
 
 
-OSH-Park shared project ($5.00 USD):
-https://oshpark.com/shared_projects/A1AbiQiu
+
+
 
 
 This is an old revision:
