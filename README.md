@@ -12,9 +12,8 @@ Partslist:
 
 
 https://forum.pjrc.com/threads/29276-Limits-of-delay-effect-in-audio-library
-(up to 9 sec. delay for audio 44kHz)
-=======
 
+(up to 9 sec. delay for audio 44kHz)
 
 
 OSH-Park shared project:
