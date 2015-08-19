@@ -2,6 +2,9 @@
 
 1..6x spi jedec-memory soic-8 (e.g. 23LC1024 RAM)
 
+![Top](https://github.com/FrankBoesing/memoryboard/blob/master/img/top.png)
+![Bottom](https://github.com/FrankBoesing/memoryboard/blob/master/img/bottom.png)
+
 Partslist:
 
 - 6 x SPI jedec Memory of your choice (SOIC-8) (RAM (e.g. 23LC1024) , Flash...)
