@@ -11,8 +11,13 @@ Partslist:
 - 3 x Resistor 10K 0603
 
 
+<<<<<<< HEAD
 https://forum.pjrc.com/threads/29276-Limits-of-delay-effect-in-audio-library
 (up to 9 sec. delay for audio 44kHz)
+=======
+
+
+>>>>>>> origin/master
 
 
 OSH-Park shared project:
