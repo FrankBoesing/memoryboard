@@ -20,10 +20,10 @@ Of course, this board is not only for the audio-library!
 OSH-Park shared project:
 https://oshpark.com/shared_projects/KZt5PaU7
 
-![](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard1.jpg)
-![](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard2.jpg)
-![](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard3.jpg)
-![](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard4.jpg)
+![](https://github.com/FrankBoesing/memoryboard/blob/master/img/memoryboard1.jpg)
+![](https://github.com/FrankBoesing/memoryboard/blob/master/img/memoryboard2.jpg)
+![](https://github.com/FrankBoesing/memoryboard/blob/master/img/memoryboard3.jpg)
+![](https://github.com/FrankBoesing/memoryboard/blob/master/img/memoryboard4.jpg)
 
 Video of delay effect:
 [![video](http://img.youtube.com/vi/d80d1HWy5_s/0.jpg)](https://www.youtube.com/watch?v=d80d1HWy5_s)
