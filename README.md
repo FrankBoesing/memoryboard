@@ -2,14 +2,6 @@
 
 1..6x spi jedec-memory soic-8 (e.g. 23LC1024 RAM)
 
-The old REV 3.0 is tested and works.
-
-
-This is not tested:
-
-New Revision with LED,
-more capacitors.
-
 Partslist:
 
 - 6 x SPI jedec Memory of your choice (SOIC-8) (RAM (e.g. 23LC1024) , Flash...)
@@ -17,13 +9,15 @@ Partslist:
 - 1 x 74LCX138MX SOIC-16
 - 7 x Capacitor 0.1uF 0603
 - 3 x Resistor 10K 0603
-- 1 x Resistor 1K 0603 (optional)
-- 1 x LED Low current 2 mA 1.8V 0603 (optional)
 
 
-OSH-Park shared project ($5.00 USD):
-https://oshpark.com/shared_projects/A1AbiQiu
+https://forum.pjrc.com/threads/29276-Limits-of-delay-effect-in-audio-library
+(up to 9 sec. delay for audio 44kHz)
 
 
-This is an old revision:
-![Old Revision](https://github.com/FrankBoesing/memoryboard/blob/master/20150705_110330kl.png)
+OSH-Park shared project:
+https://oshpark.com/shared_projects/KZt5PaU7
+[](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard1.jpg)
+[](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard2.jpg)
+[](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard3.jpg)
+[](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard4.jpg)
