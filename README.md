@@ -12,8 +12,9 @@ Partslist:
 
 
 https://forum.pjrc.com/threads/29276-Limits-of-delay-effect-in-audio-library
-
 (up to 9 sec. delay for audio 44kHz)
+
+Of course, this board is not only for the audio-library! 
 
 
 OSH-Park shared project:
@@ -24,4 +25,5 @@ https://oshpark.com/shared_projects/KZt5PaU7
 ![](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard3.jpg)
 ![](https://github.com/FrankBoesing/memoryboard/blob/master/memoryboard4.jpg)
 
-
+Video of delay effect:
+[![video](http://img.youtube.com/vi/d80d1HWy5_s/0.jpg)](https://www.youtube.com/watch?v=d80d1HWy5_s)
