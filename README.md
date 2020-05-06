@@ -34,6 +34,13 @@ https://oshpark.com/shared_projects/KZt5PaU7
 Video of delay effect:
 [![video](http://img.youtube.com/vi/d80d1HWy5_s/0.jpg)](https://www.youtube.com/watch?v=d80d1HWy5_s)
 
+Pins used:
+- 3v3, 
+- GND, 
+- 2,3,4 (Chipselects) 
+- 7, 12, 14 (SPI)
+ 
+
 
 ### License
 
